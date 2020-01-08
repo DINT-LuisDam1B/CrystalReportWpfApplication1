@@ -23,6 +23,7 @@ namespace CrystalReportWpfApplication1
         {
             InitializeComponent();
             reportViewer.Owner = this;
+            //iniciamos apliacion
         }
     }
 }
